@@ -155,4 +155,12 @@ body {
     .apresentacao__links_link {
         width: 70%;
     }
+    .imagem {
+        width: 60%;
+        text-align: center;
+    }
+    .container_imagem {
+        width: 77%;
+        text-align: center;
+    }
 }
