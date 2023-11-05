@@ -139,3 +139,20 @@ body {
         width: auto;
     }
 }
+
+@media (max-width: 495px) {
+    .apresentacao__conteudo__titulo {
+        font-size: 1.5rem;
+    }
+    .apresentacao__conteudo__texto {
+        font-size: 1rem;
+    }
+    .titulo-botoes {
+        font-size: 1.3rem;
+        text-align: center;
+    }
+    
+    .apresentacao__links_link {
+        width: 70%;
+    }
+}
